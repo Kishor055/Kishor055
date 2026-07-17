@@ -245,6 +245,23 @@ A smart platform that analyzes code efficiency, estimates environmental impact, 
 
 ---
 
+## 🏥 HealthAI — AI Healthcare Assistant
+
+An AI-powered healthcare platform focused on bringing intelligent assistance and technology-driven health solutions.
+
+**Highlights**
+- 🤖 AI-based healthcare assistance
+- 📊 Data-driven insights
+- 🌐 Modern full-stack architecture
+- 🧠 Machine learning integration
+- ⚡ User-focused experience
+
+**Tech Stack**
+`Python` `AI/ML` `React` `Node.js` `MongoDB` `Git`
+
+🔗 https://github.com/Kishor055/HealthAI
+
+---
 
 ## 🤖 AI & Machine Learning Projects
 
